@@ -142,7 +142,7 @@ gsap.from(".opt2 .lll",{
         // markers: true,
         start: "-250%",
         end: "-130%",
-        scrub: 4,
+        scrub: 2,
     },
     opacity: 0,
     duration: .4,
