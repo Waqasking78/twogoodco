@@ -150,6 +150,8 @@ gsap.from(".opt2 .lll",{
     ease: "linear"
 })
 
+
+
 gsap.from(".opt1,.footer .opt3",{
     scrollTrigger: {
         trigger: ".opt2",
